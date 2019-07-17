@@ -1,0 +1,16 @@
+.box {
+  width: 400px;
+  height: 400px;
+  background: pink;
+  .in {
+    width: 200px;
+    height: 200px;
+    background: red;
+  }
+  .img {
+    width: 200px;
+    height: 200px;
+    background-image: url(img/1.jpg);
+    background-size: cover;
+  }
+}
